@@ -1591,6 +1591,7 @@ pre code {
 .container-fluid-special {
   padding-right: 220px;
   padding-left: 220px;
+  padding-bottom: 20px;
   margin-right: auto;
   margin-left: auto;
 }
